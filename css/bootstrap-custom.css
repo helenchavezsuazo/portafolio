@@ -6,21 +6,21 @@ a{
 	font-size:14px;	
 }
 .navbar-light .navbar-nav .nav-link{
-	color:#fff;	
+	color:#000;	
 	font-weight:600;
 	text-transform: uppercase;
 }
 .navbar-light .navbar-nav .nav-link:hover{
-	color:#af9f66;
-	border-bottom: 2px solid #af9f66;
+	color:#000;
+	border-bottom: 2px solid #000;
 }
 .navbar-light .navbar-nav .active .nav-link{
 	background-color:transparent;
-	color:#af9f66;
+	color:#000;
 }
 .navbar-light .navbar-nav .active .nav-link:hover{
 	background-color:transparent;
-	color:#af9f66;
+	color:#AAA4A4;
 }
 
 
