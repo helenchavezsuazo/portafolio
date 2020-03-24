@@ -250,7 +250,7 @@ p{
 
 .navbar,
 .toolbar{
-	background-color: #876841 !important;
+	background-color: # rgba(39,132,255,1.00) !important;
 }
 .navbar a,
 .toolbar a{
